@@ -14,9 +14,9 @@ MX CLASS FLARES case
 
 Put
 
-a) Script_Monte_MX_tune.R  (R main)
-b) functions_Monte_MX_tune.R (R functions)
-c) dataset_for_wp3_v6_merged.txt (input file)
+a) Script_Monte_MX_tune.R  (R main) \\
+b) functions_Monte_MX_tune.R (R functions) \\
+c) dataset_for_wp3_v6_merged.txt (input file) \\
 
 in same directory 
 
