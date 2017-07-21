@@ -16,7 +16,8 @@ Put
 
 a) Script_Monte_MX_tune.R  (R main) 
 b) functions_Monte_MX_tune.R (R functions) 
-c) dataset_for_wp3_v6_merged.txt (input file) 
+c) Xall_MX.txt (input file) 
+d) Yall_MX.txt (input file) 
 
 in same directory 
 
@@ -46,7 +47,8 @@ Put
 
 a) Script_Monte_Cclass_tune.R  (R main)
 b) functions_Monte_Cclass_tune.R (R functions)
-c) dataset_for_wp3_v6_merged.txt (input file)
+c) Xall.txt (input file)
+d) Yall.txt (input file)
 
 in same directory 
 
