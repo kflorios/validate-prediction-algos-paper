@@ -10,7 +10,7 @@ To run the R code you will need:
 Run has been checked in a windows 64 machine.
 
 
-MX CLASS FLARES case
+## MX CLASS FLARES case
 
 Put
 
@@ -41,7 +41,7 @@ The methods are
 5: Support vector Machine
 
 
-C CLASS FLARES case
+## C CLASS FLARES case
 
 Put
 
