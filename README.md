@@ -14,11 +14,12 @@ Run has been checked in a windows 64 machine.
 
 Put
 
+```
 a) Script_Monte_MX_tune.R  (R main) 
 b) functions_Monte_MX_tune.R (R functions) 
 c) Xall_MX.txt (input file) 
 d) Yall_MX.txt (input file) 
-
+```
 in same directory 
 
 Run Script_Monte_MX_tune.R in R or RStudio
@@ -33,23 +34,25 @@ and displayed at the console tab window of R or RStudio with latex code.
 Also, figures are produced for all five methods validated.
 
 The methods are
+```
 0: Neural network
 1: Linear regression
 2: Probit regression
 3: Logit regression
 4: Random forest
 5: Support vector Machine
-
+```
 
 ## C CLASS FLARES case
 
 Put
 
+```
 a) Script_Monte_Cclass_tune.R  (R main)
 b) functions_Monte_Cclass_tune.R (R functions)
 c) Xall.txt (input file)
 d) Yall.txt (input file)
-
+```
 in same directory 
 
 Run Script_Monte_Cclass_tune.R in R or RStudio
@@ -64,9 +67,11 @@ and displayed at the console tab window of R or RStudio with latex code.
 Also, figures are produced for all five methods validated.
 
 The methods are
+```
 0: Neural network
 1: Linear regression
 2: Probit regression
 3: Logit regression
 4: Random forest
 5: Support vector Machine
+```
