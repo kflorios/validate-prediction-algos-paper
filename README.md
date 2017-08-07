@@ -28,8 +28,7 @@ The script takes a few minutes to run.
 
 In the current directory many files are produced.
 
-The final result is the skill score statistics ACC, TSS, HSS for all methods which is also produced as a latex file,
-and displayed at the console tab window of R or RStudio with latex code.
+The final result is the skill score statistics vector: Accuracy (ACC), True Skill Statistic (TSS) and Heidke Skill Score (HSS), for all methods which is also produced as a latex file, and displayed at the console tab window of R or RStudio with latex code.
 
 Also, figures are produced for all five methods validated.
 
@@ -61,8 +60,7 @@ The script takes a few minutes to run.
 
 In the current directory many files are produced.
 
-The final result is the skill score statistics ACC, TSS, HSS for all methods which is also produced as a latex file,
-and displayed at the console tab window of R or RStudio with latex code.
+The final result is the skill score statistics vector: Accuracy (ACC), True Skill Statistic (TSS) and Heidke Skill Score (HSS), for all methods which is also produced as a latex file, and displayed at the console tab window of R or RStudio with latex code.
 
 Also, figures are produced for all five methods validated.
 
