@@ -7,7 +7,7 @@ To run the R code you will need:
 2. packages 'tseries','nnet','xtable','pracma','matrixStats','e1071','ROCR','verification','randomForest' in R installed
 
 
-Run has been checked in a windows 64 machine.
+The runs have been checked in a windows 64 and a linux 64 machine.
 
 
 ## MX (or >M1) CLASS FLARES case
