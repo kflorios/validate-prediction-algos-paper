@@ -96,13 +96,13 @@ outBrierSkillD <- as.data.frame(cbind("0BrierSkill" = outBrierSkill[1],
 
 
 #write.table(outD, file = paste(root, "/Results/coefTable_Scnr", Scenario, ".txt", sep = ""), row.names=F)                            
-write.table(outD, file = paste(root, "/Results/coefTable_Scnr", Scenario, ".txt", sep = ""), row.names=FALSE)                            
+write.table(outD, file = paste(root, "/coefTable_Scnr", Scenario, ".txt", sep = ""), row.names=FALSE)                            
 
-write.table(outBrierD, file = paste(root, "/Results/BrierTable_Scnr", Scenario, ".txt", sep = ""), row.names=FALSE)
+write.table(outBrierD, file = paste(root, "/BrierTable_Scnr", Scenario, ".txt", sep = ""), row.names=FALSE)
 
-write.table(outAUCD, file = paste(root, "/Results/AUCTable_Scnr", Scenario, ".txt", sep = ""), row.names=FALSE)                            
+write.table(outAUCD, file = paste(root, "/AUCTable_Scnr", Scenario, ".txt", sep = ""), row.names=FALSE)                            
 
-write.table(outBrierSkillD, file = paste(root, "/Results/BrierSkillTable_Scnr", Scenario, ".txt", sep = ""), row.names=FALSE)
+write.table(outBrierSkillD, file = paste(root, "/BrierSkillTable_Scnr", Scenario, ".txt", sep = ""), row.names=FALSE)
 
 
 # LaTeX output
