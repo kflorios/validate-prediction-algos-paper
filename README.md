@@ -73,3 +73,59 @@ The methods are
 4: Random forest
 5: Support vector Machine
 ```
+
+## MX (or >M1) CLASS FLARES case
+## data description
+
+File
+
+```
+Xall_MX.txt (input file)
+```
+
+has variables (columnwise, from left to right)
+
+"alpha_exp_fft_blos","alpha_exp_fft_br",
+"decay_index_blos","decay_index_br",
+"ising_energy_blos","ising_energy_br",
+"ising_energy_part_blos","ising_energy_part_br",
+"mpil_blos","mpil_br",
+"nn_currents",
+"r_value_blos_logr","r_value_br_logr",
+"wlsg_blos","wlsg_br"
+
+```
+Yall_MX.txt (input file)
+```
+
+has variable
+
+"y_GT_M1"
+
+## CMX (or >C1) CLASS FLARES case
+## data description
+
+File
+
+```
+Xall.txt (input file)
+```
+
+has variables (columnwise, from left to right)
+
+"alpha_exp_fft_blos","alpha_exp_fft_br",
+"decay_index_blos","decay_index_br",
+"ising_energy_blos","ising_energy_br",
+"ising_energy_part_blos","ising_energy_part_br",
+"mpil_blos","mpil_br",
+"nn_currents",
+"r_value_blos_logr","r_value_br_logr",
+"wlsg_blos","wlsg_br"
+
+```
+Yall.txt (input file)
+```
+
+has variable
+
+"y_GT_C1"
